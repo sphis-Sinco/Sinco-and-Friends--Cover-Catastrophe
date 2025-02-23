@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PortilizenAssets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Portilizen Down0000" x="4" y="4" width="225" height="215" frameX="0" frameY="-10" frameWidth="230" frameHeight="225"/>
+	<SubTexture name="Portilizen Down0001" x="4" y="4" width="225" height="215" frameX="0" frameY="-10" frameWidth="230" frameHeight="225"/>
+	<SubTexture name="Portilizen Down0002" x="237" y="4" width="227" height="225" frameX="-3" frameY="0" frameWidth="230" frameHeight="225"/>
+	<SubTexture name="Portilizen Down0003" x="237" y="4" width="227" height="225" frameX="-3" frameY="0" frameWidth="230" frameHeight="225"/>
+	<SubTexture name="Portilizen Down0004" x="237" y="4" width="227" height="225" frameX="-3" frameY="0" frameWidth="230" frameHeight="225"/>
+	<SubTexture name="Portilizen Down0005" x="472" y="4" width="227" height="225" frameX="-3" frameY="0" frameWidth="230" frameHeight="225"/>
+	<SubTexture name="Portilizen Down0006" x="472" y="4" width="227" height="225" frameX="-3" frameY="0" frameWidth="230" frameHeight="225"/>
+	<SubTexture name="Portilizen Down0007" x="472" y="4" width="227" height="225" frameX="-3" frameY="0" frameWidth="230" frameHeight="225"/>
+	<SubTexture name="Portilizen Down0008" x="472" y="4" width="227" height="225" frameX="-3" frameY="0" frameWidth="230" frameHeight="225"/>
+	<SubTexture name="Portilizen Down0009" x="472" y="4" width="227" height="225" frameX="-3" frameY="0" frameWidth="230" frameHeight="225"/>
+	<SubTexture name="Portilizen Down Miss0000" x="707" y="4" width="227" height="259" frameX="0" frameY="-2" frameWidth="227" frameHeight="261"/>
+	<SubTexture name="Portilizen Down Miss0001" x="942" y="4" width="227" height="258" frameX="0" frameY="-3" frameWidth="227" frameHeight="261"/>
+	<SubTexture name="Portilizen Down Miss0002" x="1177" y="4" width="227" height="261"/>
+	<SubTexture name="Portilizen Down Miss0003" x="1412" y="4" width="227" height="260" frameX="0" frameY="-1" frameWidth="227" frameHeight="261"/>
+	<SubTexture name="Portilizen Down Miss0004" x="1647" y="4" width="227" height="261"/>
+	<SubTexture name="Portilizen Down Miss0005" x="4" y="273" width="227" height="260" frameX="0" frameY="-1" frameWidth="227" frameHeight="261"/>
+	<SubTexture name="Portilizen Down Miss0006" x="239" y="273" width="227" height="261"/>
+	<SubTexture name="Portilizen Down Miss0007" x="474" y="273" width="227" height="261"/>
+	<SubTexture name="Portilizen Down Miss0008" x="709" y="273" width="227" height="259" frameX="0" frameY="-2" frameWidth="227" frameHeight="261"/>
+	<SubTexture name="Portilizen Down Miss0009" x="944" y="273" width="227" height="258" frameX="0" frameY="-3" frameWidth="227" frameHeight="261"/>
+	<SubTexture name="Portilizen Idle0000" x="1179" y="273" width="277" height="251"/>
+	<SubTexture name="Portilizen Idle0001" x="1179" y="273" width="277" height="251"/>
+	<SubTexture name="Portilizen Idle0002" x="1179" y="273" width="277" height="251"/>
+	<SubTexture name="Portilizen Idle0003" x="1179" y="273" width="277" height="251"/>
+	<SubTexture name="Portilizen Idle0004" x="1179" y="273" width="277" height="251"/>
+	<SubTexture name="Portilizen Idle0005" x="1464" y="273" width="277" height="250" frameX="0" frameY="0" frameWidth="277" frameHeight="251"/>
+	<SubTexture name="Portilizen Idle0006" x="1464" y="273" width="277" height="250" frameX="0" frameY="0" frameWidth="277" frameHeight="251"/>
+	<SubTexture name="Portilizen Idle0007" x="1464" y="273" width="277" height="250" frameX="0" frameY="0" frameWidth="277" frameHeight="251"/>
+	<SubTexture name="Portilizen Idle0008" x="1464" y="273" width="277" height="250" frameX="0" frameY="0" frameWidth="277" frameHeight="251"/>
+	<SubTexture name="Portilizen Idle0009" x="1464" y="273" width="277" height="250" frameX="0" frameY="0" frameWidth="277" frameHeight="251"/>
+	<SubTexture name="Portilizen Left0000" x="1749" y="273" width="262" height="240" frameX="0" frameY="0" frameWidth="265" frameHeight="241"/>
+	<SubTexture name="Portilizen Left0001" x="1749" y="273" width="262" height="240" frameX="0" frameY="0" frameWidth="265" frameHeight="241"/>
+	<SubTexture name="Portilizen Left0002" x="4" y="542" width="261" height="240" frameX="-4" frameY="0" frameWidth="265" frameHeight="241"/>
+	<SubTexture name="Portilizen Left0003" x="4" y="542" width="261" height="240" frameX="-4" frameY="0" frameWidth="265" frameHeight="241"/>
+	<SubTexture name="Portilizen Left0004" x="4" y="542" width="261" height="240" frameX="-4" frameY="0" frameWidth="265" frameHeight="241"/>
+	<SubTexture name="Portilizen Left0005" x="273" y="542" width="261" height="241" frameX="-4" frameY="0" frameWidth="265" frameHeight="241"/>
+	<SubTexture name="Portilizen Left0006" x="273" y="542" width="261" height="241" frameX="-4" frameY="0" frameWidth="265" frameHeight="241"/>
+	<SubTexture name="Portilizen Left0007" x="273" y="542" width="261" height="241" frameX="-4" frameY="0" frameWidth="265" frameHeight="241"/>
+	<SubTexture name="Portilizen Left0008" x="273" y="542" width="261" height="241" frameX="-4" frameY="0" frameWidth="265" frameHeight="241"/>
+	<SubTexture name="Portilizen Left0009" x="273" y="542" width="261" height="241" frameX="-4" frameY="0" frameWidth="265" frameHeight="241"/>
+	<SubTexture name="Portilizen Left Miss0000" x="542" y="542" width="260" height="255" frameX="-1" frameY="-1" frameWidth="262" frameHeight="256"/>
+	<SubTexture name="Portilizen Left Miss0001" x="810" y="542" width="260" height="255" frameX="-1" frameY="-1" frameWidth="262" frameHeight="256"/>
+	<SubTexture name="Portilizen Left Miss0002" x="1078" y="542" width="261" height="255" frameX="0" frameY="0" frameWidth="262" frameHeight="256"/>
+	<SubTexture name="Portilizen Left Miss0003" x="1347" y="542" width="261" height="254" frameX="0" frameY="-1" frameWidth="262" frameHeight="256"/>
+	<SubTexture name="Portilizen Left Miss0004" x="1616" y="542" width="261" height="254" frameX="0" frameY="-1" frameWidth="262" frameHeight="256"/>
+	<SubTexture name="Portilizen Left Miss0005" x="4" y="805" width="260" height="254" frameX="-1" frameY="-2" frameWidth="262" frameHeight="256"/>
+	<SubTexture name="Portilizen Left Miss0006" x="272" y="805" width="260" height="254" frameX="-1" frameY="-2" frameWidth="262" frameHeight="256"/>
+	<SubTexture name="Portilizen Left Miss0007" x="540" y="805" width="262" height="253" frameX="0" frameY="-3" frameWidth="262" frameHeight="256"/>
+	<SubTexture name="Portilizen Left Miss0008" x="810" y="805" width="262" height="256"/>
+	<SubTexture name="Portilizen Left Miss0009" x="1080" y="805" width="262" height="255" frameX="0" frameY="-1" frameWidth="262" frameHeight="256"/>
+	<SubTexture name="Portilizen Right0000" x="1350" y="805" width="234" height="267" frameX="-1" frameY="0" frameWidth="235" frameHeight="267"/>
+	<SubTexture name="Portilizen Right0001" x="1350" y="805" width="234" height="267" frameX="-1" frameY="0" frameWidth="235" frameHeight="267"/>
+	<SubTexture name="Portilizen Right0002" x="1592" y="805" width="233" height="267" frameX="0" frameY="0" frameWidth="235" frameHeight="267"/>
+	<SubTexture name="Portilizen Right0003" x="1592" y="805" width="233" height="267" frameX="0" frameY="0" frameWidth="235" frameHeight="267"/>
+	<SubTexture name="Portilizen Right0004" x="1592" y="805" width="233" height="267" frameX="0" frameY="0" frameWidth="235" frameHeight="267"/>
+	<SubTexture name="Portilizen Right0005" x="4" y="1080" width="233" height="267" frameX="0" frameY="0" frameWidth="235" frameHeight="267"/>
+	<SubTexture name="Portilizen Right0006" x="4" y="1080" width="233" height="267" frameX="0" frameY="0" frameWidth="235" frameHeight="267"/>
+	<SubTexture name="Portilizen Right0007" x="4" y="1080" width="233" height="267" frameX="0" frameY="0" frameWidth="235" frameHeight="267"/>
+	<SubTexture name="Portilizen Right0008" x="4" y="1080" width="233" height="267" frameX="0" frameY="0" frameWidth="235" frameHeight="267"/>
+	<SubTexture name="Portilizen Right0009" x="4" y="1080" width="233" height="267" frameX="0" frameY="0" frameWidth="235" frameHeight="267"/>
+	<SubTexture name="Portilizen Right Miss0000" x="245" y="1080" width="233" height="262"/>
+	<SubTexture name="Portilizen Right Miss0001" x="245" y="1080" width="233" height="262"/>
+	<SubTexture name="Portilizen Right Miss0002" x="245" y="1080" width="233" height="262"/>
+	<SubTexture name="Portilizen Right Miss0003" x="245" y="1080" width="233" height="262"/>
+	<SubTexture name="Portilizen Right Miss0004" x="245" y="1080" width="233" height="262"/>
+	<SubTexture name="Portilizen Right Miss0005" x="486" y="1080" width="233" height="262"/>
+	<SubTexture name="Portilizen Right Miss0006" x="486" y="1080" width="233" height="262"/>
+	<SubTexture name="Portilizen Right Miss0007" x="486" y="1080" width="233" height="262"/>
+	<SubTexture name="Portilizen Right Miss0008" x="486" y="1080" width="233" height="262"/>
+	<SubTexture name="Portilizen Right Miss0009" x="486" y="1080" width="233" height="262"/>
+	<SubTexture name="Portilizen Up0000" x="727" y="1080" width="242" height="263" frameX="-3" frameY="0" frameWidth="245" frameHeight="263"/>
+	<SubTexture name="Portilizen Up0001" x="727" y="1080" width="242" height="263" frameX="-3" frameY="0" frameWidth="245" frameHeight="263"/>
+	<SubTexture name="Portilizen Up0002" x="977" y="1080" width="242" height="263" frameX="0" frameY="0" frameWidth="245" frameHeight="263"/>
+	<SubTexture name="Portilizen Up0003" x="977" y="1080" width="242" height="263" frameX="0" frameY="0" frameWidth="245" frameHeight="263"/>
+	<SubTexture name="Portilizen Up0004" x="977" y="1080" width="242" height="263" frameX="0" frameY="0" frameWidth="245" frameHeight="263"/>
+	<SubTexture name="Portilizen Up0005" x="1227" y="1080" width="240" height="263" frameX="-1" frameY="0" frameWidth="245" frameHeight="263"/>
+	<SubTexture name="Portilizen Up0006" x="1227" y="1080" width="240" height="263" frameX="-1" frameY="0" frameWidth="245" frameHeight="263"/>
+	<SubTexture name="Portilizen Up0007" x="1227" y="1080" width="240" height="263" frameX="-1" frameY="0" frameWidth="245" frameHeight="263"/>
+	<SubTexture name="Portilizen Up0008" x="1227" y="1080" width="240" height="263" frameX="-1" frameY="0" frameWidth="245" frameHeight="263"/>
+	<SubTexture name="Portilizen Up0009" x="1227" y="1080" width="240" height="263" frameX="-1" frameY="0" frameWidth="245" frameHeight="263"/>
+	<SubTexture name="Portilizen Up Miss0000" x="1475" y="1080" width="270" height="276" frameX="0" frameY="0" frameWidth="271" frameHeight="276"/>
+	<SubTexture name="Portilizen Up Miss0001" x="1753" y="1080" width="269" height="275" frameX="0" frameY="-1" frameWidth="271" frameHeight="276"/>
+	<SubTexture name="Portilizen Up Miss0002" x="4" y="1364" width="271" height="276"/>
+	<SubTexture name="Portilizen Up Miss0003" x="283" y="1364" width="271" height="276"/>
+	<SubTexture name="Portilizen Up Miss0004" x="562" y="1364" width="269" height="273" frameX="0" frameY="-3" frameWidth="271" frameHeight="276"/>
+	<SubTexture name="Portilizen Up Miss0005" x="839" y="1364" width="268" height="273" frameX="-1" frameY="-3" frameWidth="271" frameHeight="276"/>
+	<SubTexture name="Portilizen Up Miss0006" x="1115" y="1364" width="268" height="273" frameX="-1" frameY="-3" frameWidth="271" frameHeight="276"/>
+	<SubTexture name="Portilizen Up Miss0007" x="1391" y="1364" width="267" height="273" frameX="-1" frameY="-3" frameWidth="271" frameHeight="276"/>
+	<SubTexture name="Portilizen Up Miss0008" x="1666" y="1364" width="268" height="274" frameX="-1" frameY="-2" frameWidth="271" frameHeight="276"/>
+	<SubTexture name="Portilizen Up Miss0009" x="4" y="1648" width="267" height="274" frameX="-1" frameY="-2" frameWidth="271" frameHeight="276"/>
+</TextureAtlas>
