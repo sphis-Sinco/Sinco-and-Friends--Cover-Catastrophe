@@ -8,6 +8,8 @@
         (Featuring : Elderco/Plaugeco, And Black Mask (redhood except it's tirok) : (Cover of [Shunsine](https://www.youtube.com/watch?v=dmaMQ48edwk))
 -  Ashes to ashes
         (Featuring : Sinco, Ether G R E E D or Breakdown (and osin and a tirok that went insane), And Tj on a helecopter : (Cover of [Demise](https://www.youtube.com/watch?v=YdvbLXGHShc))
+-  Rule the world
+        (PS1 Art Style : Featuring : Businesszen, And that it? : (Cover of [Obey Your Master](https://www.youtube.com/watch?v=LOwsBRD9OwM))
 
 # Week 3 : Spectrum
 - Minecrass Table
