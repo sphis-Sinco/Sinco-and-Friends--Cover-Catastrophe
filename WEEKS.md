@@ -7,8 +7,9 @@
 - Eternal Plague
         (Featuring : Elderco/Plaugeco, And Black Mask (redhood except it's tirok) : (Cover of [Shunsine](https://www.youtube.com/watch?v=dmaMQ48edwk))
 -  Ashes to ashes
-       $${\color{red}~(Featuring : Sinco, Ether G R E E D or Breakdown (and osin and a tirok that went insane), And Tj on a helecopter : (Cover of [Demise](https://www.youtube.com/watch?v=YdvbLXGHShc))~<}$$
-       (Featuring : Sinco, Osin?, and the corpses of everytone before you =D : (Cover of [GENOCIDE](https://www.youtube.com/watch?v=pHdObRZyAdI))
+       ~(Featuring : Sinco, Ether G R E E D or Breakdown (and osin and a tirok that went insane), And Tj on a helecopter : (Cover of [Demise](https://www.youtube.com/watch?v=YdvbLXGHShc))~
+
+    (Featuring : Sinco, Osin?, and the corpses of everytone before you =D : (Cover of [GENOCIDE](https://www.youtube.com/watch?v=pHdObRZyAdI))
 
 # Week 3 : Spectrum
 - Minecrass Table
